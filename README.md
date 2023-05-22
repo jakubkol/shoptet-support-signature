@@ -1,4 +1,4 @@
-*Your full name*
+**Your full name**\
 _Job title_
 
 ![Shoptet logo](https://res.cloudinary.com/shoptet/image/upload/v1684766564/mailsignature/shoptet-logo-small.png)
